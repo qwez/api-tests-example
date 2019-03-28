@@ -1,0 +1,6 @@
+requests==2.21.0
+pytest==4.3.1
+jsons==0.8.1
+pytest-xdist==1.27.0
+allure-pytest==2.6.1
+Faker==1.0.4
