@@ -4,7 +4,7 @@
 ##### Prepare environment
 1. install python 3.7
 2. `git clone https://github.com/qwez/api-tests-example.git`
-3. `cd todoist_api_test`
+3. `cd api-tests-example`
 4. `python -m pip install -r requirements.txt`
 ##### Run tests
 `pyhon -m pytest --alluredir=allure_report`
